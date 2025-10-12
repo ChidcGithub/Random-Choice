@@ -54,4 +54,4 @@ Random Choice is a lightweight yet powerful tool designed to **improve classroom
 **⭐ Star this repo if you find it useful! Contributions and feedback are welcome.**  
 
 --- 
-*Make every classroom moment engaging and fair with Random Choice!*****
+*Make every classroom moment engaging and fair with Random Choice!*
