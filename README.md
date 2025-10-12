@@ -1,16 +1,57 @@
-# Random-Choice
-A tool that provides **a better class experience** !
+# Random Choice 🎲  
+**Enhancing classroom interaction with smart random selection**
 
-Now the Newest Verison is *5.0.105*
+---
 
-But the most stable version is **4.6.198**
+## 📖 Introduction  
+Random Choice is a lightweight yet powerful tool designed to **improve classroom engagement** by facilitating fair and unpredictable student selection. Whether for Q&A sessions, group activities, or interactive discussions, this tool ensures every student gets an equal opportunity to participate.
 
-It is a useful tool that can radomly choose a student in class, you can <a href = "https://chidc.lanzout.com/ijcBS37d5i0h">download</a> and change students' names.
-Now it newly added **settings** which is unstable for class use, it will be more stable when the Version of 5.1 out.
+---
 
-- [x] Added Settings
-- [x] <del>Fix bugs that settings cannot be opened</del> -> **Changed** the way to open.
-- [x] Fix "Choosed **NO STUDENT**" bug.
-- [ ] **Stablize** the Settings
-- [ ] Add more Features like <del>UNFAIR RANDOM</del> or deleting some students whom the teacher don't want to choose temporary
-- [ ] Find more insteresting animations
+## 🚀 Features  
+- ✅ **Random Student Selection**: <del>Fair<del/> "Really?" and transparent randomness for classroom use  
+- ✅ **Customizable Name List**: Easily update student names to match your class  
+- ✅ **Settings Panel**: Newly introduced in Version 5.x (under stabilization)  
+- ✅ **Bug Fixes**: Resolved critical issues like "Choosed NO STUDENT"  
+- ⏳ **Upcoming Features**:  
+  - Stabilized Settings (Planned for Version 5.1)  
+  - Temporary student exclusion  
+  - Enhanced animation effects  
+
+---
+
+## 📥 Download & Installation  
+- **Stable Release**: [Version 4.6.198](https://chidc.lanzout.com/ijcBS37d5i0h) (Recommended for classroom use)  
+- **Latest Release**: Version 5.0.105 (Includes experimental features)  
+
+---
+
+## 🛠️ How to Use  
+1. Download the executable file from the link above  
+2. Launch the application and import your student list  
+3. Customize settings as needed (use stable version for critical scenarios)  
+4. Click "Randomize" and let the tool pick a student fairly  
+
+---
+
+## 🗓️ Development Progress  
+- [x] Settings menu implementation  
+- [x] Fixed settings accessibility issue (updated opening method)  
+- [x] Resolved "No Student" selection bug  
+- [ ] Stabilize Settings UI and functionality  
+- [ ] Add temporary student exclusion feature  
+- [ ] Develop engaging animations for selection process  
+
+---
+
+## 💡 Ideal For  
+- Teachers seeking interactive classroom tools  
+- Educators promoting inclusive participation  
+- Trainers conducting randomized Q&A sessions  
+
+---
+
+**⭐ Star this repo if you find it useful! Contributions and feedback are welcome.**  
+
+--- 
+*Make every classroom moment engaging and fair with Random Choice!*****
