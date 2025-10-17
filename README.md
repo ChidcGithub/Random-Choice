@@ -11,7 +11,7 @@ Random Choice is a lightweight yet powerful tool designed to **improve classroom
 ## 🚀 Features  
 - ✅ **Random Student Selection**: <del>Fair<del/> "Really?" and transparent randomness for classroom use  
 - ✅ **Customizable Name List**: Easily update student names to match your class  
-- ✅ **Settings Panel**: Newly introduced in Version 5.x (under stabilization)  
+- ✅ **Settings Panel**: Newly introduced in Version 5.1 (under stabilization)  
 - ✅ **Bug Fixes**: Resolved critical issues like "Choosed NO STUDENT"  
 - ⏳ **Upcoming Features**:  
   - Stabilized Settings (Planned for Version 5.1)  
@@ -22,7 +22,7 @@ Random Choice is a lightweight yet powerful tool designed to **improve classroom
 
 ## 📥 Download & Installation  
 - **Stable Release**: [Version 4.6.198](https://chidc.lanzout.com/ijcBS37d5i0h) (Recommended for classroom use)  
-- **Latest Release**: [Version 5.1 RC1](https://github.com/ChidcGithub/Random-Choice/releases/tag/5.1_RC1) (Includes experimental features)
+- **Latest Release**: [Version 5.1 RC2](https://github.com/ChidcGithub/Random-Choice/releases/tag/5.1_RC2) (Includes experimental features)
 - **Hotfixed Release**: [Version 5.0.110-hotfix1](https://github.com/ChidcGithub/Random-Choice/releases/tag/5.0.110-hotfix1) (Includes fixed bugs)  
 
 ---
