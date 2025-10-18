@@ -9,7 +9,7 @@ Random Choice is a lightweight yet powerful tool designed to **improve classroom
 ---
 
 ## 🚀 Features  
-- ✅ **Random Student Selection**: <del>Fair<del/> "Really?" and transparent randomness for classroom use  
+- ✅ **Random Student Selection**: <del>Fair</del> **"Really?"** and transparent randomness for classroom use  
 - ✅ **Customizable Name List**: Easily update student names to match your class  
 - ✅ **Settings Panel**: Newly introduced in Version 5.1 (under stabilization)  
 - ✅ **Bug Fixes**: Resolved critical issues like "Choosed NO STUDENT"  
