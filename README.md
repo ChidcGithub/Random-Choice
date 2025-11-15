@@ -13,16 +13,16 @@ Random Choice is a lightweight yet powerful tool designed to **improve classroom
 - ✅ **Customizable Name List**: Easily update student names to match your class  
 - ✅ **Settings Panel**: Newly introduced in Version 5.1 (under stabilization)  
 - ✅ **Bug Fixes**: Resolved critical issues like "Choosed NO STUDENT"  
+- ✅ **Stabilized Settings**： (Planned for Version 5.1)  
 - ⏳ **Upcoming Features**:  
-  - Stabilized Settings (Planned for Version 5.1)  
   - Temporary student exclusion  
   - Enhanced animation effects  
 
 ---
 
 ## 📥 Download & Installation  
-- **Stable Release**: [Version 4.6.198](https://chidc.lanzout.com/ijcBS37d5i0h) (Recommended for classroom use)  
-- **Latest Release**: [Version 5.1 RC4](https://github.com/ChidcGithub/Random-Choice/releases/tag/5.1_RC4) (Includes newest experimental features)
+- **Stablest Release**: [Version 4.6.198](https://chidc.lanzout.com/ijcBS37d5i0h) (Recommended for classroom use)  
+- **Latest Release**: [Version 5.1.1115](https://github.com/ChidcGithub/Random-Choice/releases/tag/5.1.1115) (Includes newest experimental features)
 - **Hotfixed Release**: [Version 5.0.110-hotfix1](https://github.com/ChidcGithub/Random-Choice/releases/tag/5.0.110-hotfix1) (Includes fixed bugs)  
 
 ---
@@ -44,7 +44,7 @@ Random Choice is a lightweight yet powerful tool designed to **improve classroom
 - [x] Added temporary student exclusion feature  
 - [ ] Develop engaging animations for selection process
 - [ ] Change all icons into Material You Design 3
-- [ ] Ensure the 5.1 version is stable
+- [x] Ensure the 5.1 version is stable
 - [ ] Improve the input of the unfair weights
 - [ ] Add a students removing feature
 
